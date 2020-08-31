@@ -1,4 +1,2 @@
 # react
 collaboration project
-
-# components
