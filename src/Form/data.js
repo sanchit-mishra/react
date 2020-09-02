@@ -1,6 +1,6 @@
 export const employeenumber = 9171544;
 export const firstname = "Lyreck";
-export const middlename = "";
+export const middlename = "null";
 export const lastName = "Williams";
 export const emailAddress = "lyreckwilliams@gmail.com";
 export const phone1 = 5108609628;
